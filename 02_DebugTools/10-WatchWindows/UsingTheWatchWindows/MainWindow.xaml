@@ -1,0 +1,27 @@
+﻿<Window x:Class="ExampleApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+    <Button Content='Watch Windows'
+            Height='39'
+            HorizontalAlignment='Left'
+            Margin='36,34,0,0'
+						x:Name='WatchButton'
+						VerticalAlignment='Top'
+						Width='179'
+						Click='watchButton_Click' />
+		<Calendar x:Name='MainCalendar'
+							HorizontalAlignment='Left'
+							Margin='36,121,0,0'
+							VerticalAlignment='Top' />
+		<Button Content='Add more Watch Windows'
+						Height='39'
+						HorizontalAlignment='Left'
+						Margin='264,34,0,0'
+						x:Name='MoreWatchButton'
+						VerticalAlignment='Top'
+						Width='179'
+						Click='MoreWatchButton_Click' />
+	</Grid>
+</Window>

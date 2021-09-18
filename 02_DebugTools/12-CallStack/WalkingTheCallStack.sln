@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 14.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalkingTheCallStack", "WalkingTheCallStack\WalkingTheCallStack.csproj", "{84BFADC3-1E64-4828-86B5-A6061B73A0D0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BankLib", "BankLib\BankLib.vbproj", "{84FA0906-E779-47E1-A102-6B33C505C309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84BFADC3-1E64-4828-86B5-A6061B73A0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BFADC3-1E64-4828-86B5-A6061B73A0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BFADC3-1E64-4828-86B5-A6061B73A0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BFADC3-1E64-4828-86B5-A6061B73A0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FA0906-E779-47E1-A102-6B33C505C309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FA0906-E779-47E1-A102-6B33C505C309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FA0906-E779-47E1-A102-6B33C505C309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FA0906-E779-47E1-A102-6B33C505C309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

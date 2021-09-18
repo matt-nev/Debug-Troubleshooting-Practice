@@ -1,0 +1,93 @@
+﻿<Window x:Class="ExploreCaliforniaShell1.MainWindow"
+				xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+				xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+				Title="MainWindow"
+				Height="600"
+				Width="Auto">
+	<Grid Background="{StaticResource MainColorBrush}"
+				x:Name='appGrid'>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="140" />
+			<RowDefinition Height="2" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="100" />
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="220" />
+			<ColumnDefinition Width="*" />
+			<ColumnDefinition Width="120" />
+		</Grid.ColumnDefinitions>
+
+		<Rectangle Grid.ColumnSpan='3'
+							 Grid.Row='1'
+							 StrokeThickness='0'
+							 Height='2'>
+			<Rectangle.Fill>
+				<LinearGradientBrush EndPoint='1,0.'
+														 StartPoint='0,0.0'>
+					<GradientStop Color='{StaticResource SecondaryColor}'
+												Offset='0.9' />
+					<GradientStop Color='{StaticResource MainColor}'
+												Offset='1' />
+					<GradientStop Color='{StaticResource MainColor}' />
+					<GradientStop Color='{StaticResource SecondaryColor}'
+												Offset='0.1' />
+				</LinearGradientBrush>
+			</Rectangle.Fill>
+		</Rectangle>
+		<StackPanel Grid.ColumnSpan='1'
+								HorizontalAlignment='Stretch'
+								VerticalAlignment='Stretch'
+								Grid.Column='1'
+								Grid.Row='0'
+								Orientation='Horizontal'>
+			<TextBlock TextWrapping='NoWrap'
+								 Text='Explore'
+								 FontSize="96"
+								 TextAlignment="Left"
+								 Foreground='{StaticResource SecondaryColorBrush}'
+								 VerticalAlignment='Center'
+								 Padding='0,4'
+								 FontFamily="Assets/Fonts/raleway.otf#raleway"
+								 FontWeight="Bold" />
+			<TextBlock TextWrapping='NoWrap'
+								 Text='❂'
+								 FontSize="66"
+								 TextAlignment="Left"
+								 Foreground='{StaticResource AccentColorBrush}'
+								 VerticalAlignment='Center'
+								 Padding='0,4'
+								 Margin='20,0'
+								 FontFamily="Segoe UI Symbol" />
+			<TextBlock TextWrapping='NoWrap'
+								 Text='California'
+								 FontSize="96"
+								 TextAlignment="Left"
+								 Foreground='{StaticResource SecondaryColorBrush}'
+								 VerticalAlignment='Center'
+								 Padding='0,4'
+								 FontWeight='Bold'
+								 Margin='0,0,0,0'
+								 FontFamily="Assets/Fonts/raleway.otf#raleway" />
+
+		</StackPanel>
+		<Frame Grid.Row="2"
+					 x:Name='ContentFrame'
+					 Grid.Column="1">
+
+		</Frame>
+		<StackPanel Grid.Row='2'
+								Orientation='Vertical'>
+			<Button Content='Entry'
+							x:Name='EntryButton'
+							Click='EntryButton_Click' />
+			<Button Content='Details'
+							x:Name='DetailsButton'
+							Click='DetailsButton_Click' />
+
+			<Button Content='Reports'
+							x:Name='ReportsButton'
+							Click='ReportsButton_Click' />
+		</StackPanel>
+	</Grid>
+</Window>

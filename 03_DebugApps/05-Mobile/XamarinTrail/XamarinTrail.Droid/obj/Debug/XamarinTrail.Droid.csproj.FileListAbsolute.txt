@@ -1,0 +1,70 @@
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid.pdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid.apk
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid-Signed.apk
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\FormsViewGroup.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.pdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.csprojResolveAssemblyReference.cache
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.pdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\android\bin\XamarinTrail.Droid.apk
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\res\drawable\icon.png
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\R.cs.flag
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\uploadflags.txt
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.Abstractions.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.pdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.xml
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.Abstractions.pdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.Abstractions.xml
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.dll.mdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.Abstractions.dll.mdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.dll.mdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid.dll.mdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debugging\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.csprojResolveAssemblyReference.cache
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debugging\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debugging\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid.apk
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid-Signed.apk
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.Abstractions.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.xml
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.dll.mdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.Abstractions.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.Abstractions.xml
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\DeviceInfo.Plugin.Abstractions.dll.mdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.csprojResolveAssemblyReference.cache
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\android\bin\XamarinTrail.Droid.apk
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\R.cs.flag
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\uploadflags.txt
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.dll.mdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\XamarinTrail.Droid.dll.mdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\bin\Debug\XamarinTrail.Droid.dll.mdb

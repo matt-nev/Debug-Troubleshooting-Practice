@@ -1,0 +1,15 @@
+﻿<Window x:Class="Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+		<Button Content='Stepping Through Code'
+            Height='36'
+            HorizontalAlignment='Center'
+                 
+            Name='steppingButton'
+            VerticalAlignment='Top'
+            Width='152'
+            Click='steppingButton_Click' />
+	</Grid>
+</Window>

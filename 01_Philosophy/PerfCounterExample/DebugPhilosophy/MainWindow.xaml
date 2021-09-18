@@ -1,0 +1,21 @@
+﻿<Window x:Class="DebugPhilosophy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DebugPhilosophy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" FontSize='14'>
+    <StackPanel Margin='20,10'>
+      <Button Content='Bug example 01' x:Name='Bug1Button' Click='Bug1Button_Click'/>
+
+    <Button Content='Bug example 02'
+            x:Name='Bug2Button'
+            Click='Bug2Button_Click' />
+    <Button x:Name='ShowBuggy' Content='Show Window'
+            Click='ShowBuggy_Click' />
+    <Button Content='Errors'
+            x:Name='ErrorButton'
+            Click='ErrorButton_Click' />
+  </StackPanel>
+</Window>

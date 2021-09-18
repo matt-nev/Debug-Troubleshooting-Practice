@@ -1,0 +1,7 @@
+﻿Examples of command parameters for console applications
+
+powercfg.exe /list
+ping.exe –n 6
+
+
+PixelSmithArt /color=red /imageName=robot.png

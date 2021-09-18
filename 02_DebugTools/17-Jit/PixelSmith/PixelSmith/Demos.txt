@@ -1,0 +1,9 @@
+﻿Scenario                                               Build Type
+
+Crash while actively debugging                        | Debug
+
+Crash outside Visual Studio (Solution open)           | Debug
+Crash outside Visual Studio (Solution closed)         | Debug
+Crash outside Visual Studio                           | Release
+Crash outside Visual Studio                           | No PDB
+

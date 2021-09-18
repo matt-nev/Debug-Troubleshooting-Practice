@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\__library_projects__\DeviceInfo.Plugin\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\__library_projects__\DeviceInfo.Plugin\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\__library_projects__\DeviceInfo.Plugin.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

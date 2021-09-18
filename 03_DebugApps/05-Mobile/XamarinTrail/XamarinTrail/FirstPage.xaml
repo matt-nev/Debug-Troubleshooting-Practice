@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinTrail.FirstPage">
+	<!-- The ContentPage can have a single child.  -->
+	<StackLayout Orientation="Vertical" BackgroundColor ="#FF507F62">
+		<!-- Use a StackLayout to host 
+          many children controls -->
+		<Label Text="Nature Tracker (v1)"
+						TextColor="Yellow"
+						Font="Large"
+						VerticalOptions="Start"
+						HorizontalOptions="CenterAndExpand" />
+		<Label Text="WildGrass Prairie Trailhead Survey"
+					 TextColor="#EEEEEE"
+					 VerticalOptions="Start"
+					 HorizontalOptions="CenterAndExpand" Font="Large" />
+		<StackLayout Orientation="Vertical" BackgroundColor="#FF304C3B"
+								 VerticalOptions="FillAndExpand" Padding="0,30,0,0">
+			<Button Text="Add sighting..."
+							Clicked="Button_Clicked"
+							VerticalOptions="Start"
+							HorizontalOptions="CenterAndExpand" />
+			<Label Text=""
+						 x:Name="messageLabel"
+						 VerticalOptions="Start"
+						 HorizontalOptions="CenterAndExpand"
+						 Font="Large"/>
+
+			<Label Text=""
+					 x:Name="orientationLabel"
+					 VerticalOptions="Start"
+					 HorizontalOptions="CenterAndExpand"
+					 Font="Large"/>
+
+			<Label Text=""
+							 x:Name="deviceLabel"
+							 VerticalOptions="Start"
+							 HorizontalOptions="CenterAndExpand"
+							 Font="Large" />
+		</StackLayout>
+	</StackLayout>
+
+</ContentPage>

@@ -1,0 +1,52 @@
+﻿<Window x:Class="BasicApp_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BasicApp_WPF"
+        mc:Ignorable="d"
+        Title="Robo Speech - WPF"
+        Height="350"
+        Width="525">
+  <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width='351*' />
+      <ColumnDefinition Width='166*' />
+    </Grid.ColumnDefinitions>
+    <Grid.RowDefinitions>
+      <RowDefinition Height='63*' />
+      <RowDefinition Height='256*' />
+    </Grid.RowDefinitions>
+
+    <Image Grid.Column='1'
+           Grid.RowSpan='2'
+           Source='StandingRobot.png' />
+    <StackPanel Grid.Row='1'>
+      <TextBlock Text='Enter speech text'
+                 FontSize='18'  HorizontalAlignment='Center'/>
+      <TextBox x:Name='inputText'
+               TextWrapping='Wrap'
+               Height='59' Margin='44,0'
+               Text="What does the fox say? Ring-ding-ding-ding-dingeringeding" />
+      <StackPanel Orientation='Horizontal' HorizontalAlignment='Center'>
+      <Button Content='Speak with male voice'
+              Click='MaleButton_Click' Padding='3' Margin='3'/>
+        <Button Content='Speak with female voice'
+                Click='FemaleButton_Click' Padding='3' Margin='3'/>
+      </StackPanel>
+    </StackPanel>
+    <TextBlock x:Name='messageTextBlock'
+               Grid.Column='1'
+               HorizontalAlignment='Left'
+               Margin='34,58,0,0'
+               Grid.Row='1'
+               TextWrapping='Wrap'
+               TextAlignment='Center'
+               Text=' '
+               FontWeight='Bold'
+               VerticalAlignment='Top'
+               FontSize='16'
+               Foreground='#FF767070'
+               Width='98' />
+  </Grid>
+</Window>

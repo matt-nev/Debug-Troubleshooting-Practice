@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<meta charset="utf-8" />
+		<title></title>
+
+	<script type=text/javascript>
+		var doubleCount = 0;
+
+		function rollDice() {
+			var roll1 = Math.floor(Math.random() * ((6 - 1) + 1) + 1);
+			var roll2 = Math.floor(Math.random() * ((6 - 1) + 1) + 1);
+			var dicetotal = roll1 + roll2;
+
+			var diceDiv1 = document.getElementById("dice1");
+		
+			diceDiv1.innerHTML = "You rolled a (" + roll1 + ") and a (" + roll2 + ")" ;
+	
+			//diceDiv1.innerHTML= "done";
+
+		}
+	</script>
+</head>
+<body >
+	<form action="">
+		<input type=button value="Roll Dice" onclick="rollDice();" id="rollButton"/>
+
+	
+	</form>
+
+	<div id="dice1"  />
+	
+</body>
+</html>

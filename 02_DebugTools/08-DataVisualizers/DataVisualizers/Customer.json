@@ -1,0 +1,39 @@
+﻿[
+  
+  {
+    "id": 1,
+    "firstname": "Catherine",
+    "lastname": "Hamilton",
+    "shirtsize": "S",
+    "country": "Haiti",
+    "premiumCustomer": false,
+    "jobTitle": "Environmental Specialist"
+  },
+  {
+    "id": 2,
+    "firstname": "Julie",
+    "lastname": "Griffin",
+    "shirtsize": "XL",
+    "country": "Indonesia",
+    "premiumCustomer": false,
+    "jobTitle": "Data Coordiator"
+  },
+  {
+    "id": 3,
+    "firstname": "Anthony",
+    "lastname": "Wells",
+    "shirtsize": "M",
+    "country": "Brazil",
+    "premiumCustomer": false,
+    "jobTitle": "Quality Control Specialist"
+  },
+  {
+    "id": 4,
+    "firstname": "Frank",
+    "lastname": "Lee",
+    "shirtsize": "L",
+    "country": "Russia",
+    "premiumCustomer": false,
+    "jobTitle": "Engineer III"
+  }
+]

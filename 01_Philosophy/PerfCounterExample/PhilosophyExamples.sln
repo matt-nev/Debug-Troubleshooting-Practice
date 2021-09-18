@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfCounterExample", "PerfCounterExample.csproj", "{1DA83635-6BC4-48E1-AFA8-68A135736C56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugPhilosophy", "DebugPhilosophy\DebugPhilosophy.csproj", "{031CE694-DE9B-47B6-9B54-5278B727E826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA83635-6BC4-48E1-AFA8-68A135736C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA83635-6BC4-48E1-AFA8-68A135736C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA83635-6BC4-48E1-AFA8-68A135736C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA83635-6BC4-48E1-AFA8-68A135736C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031CE694-DE9B-47B6-9B54-5278B727E826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031CE694-DE9B-47B6-9B54-5278B727E826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031CE694-DE9B-47B6-9B54-5278B727E826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031CE694-DE9B-47B6-9B54-5278B727E826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

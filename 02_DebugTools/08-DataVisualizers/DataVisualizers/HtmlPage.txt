@@ -1,0 +1,21 @@
+﻿<h2>HTML Summary</h2>
+<p>HTML is the universal markup language for the Web. HTML lets you format text, add graphics, 
+create links, input forms, frames and tables, etc., and save it all in a text 
+file that any browser can read and display.</p>
+<p>The key to HTML is the tags, which indicates what content is coming up.</p>
+<p>For more information on HTML, please take a look at our <a href="html_examples.asp">
+HTML examples</a> and our <a href="/tags/default.asp">HTML reference</a>.</p>
+<hr><h2>Now You Know HTML, What's Next?</h2>
+<hr><h2>Learn CSS</h2>
+<p>CSS is used to control the style and layout of multiple Web pages all at 
+once.</p>
+<p>With CSS, all formatting can be removed from the HTML document and stored in 
+a separate file.</p>
+<p>CSS gives you total control of the layout, without 
+messing up the document content.</p>
+<p>To learn how to create style sheets, please 
+visit our <a href="#">CSS tutorial</a>.</p>
+<hr><h2>Learn JavaScript</h2>
+<p>JavaScript can make your web site more dynamic.</p>
+<p>A static web site is nice when you just want to show flat content, but a dynamic 
+web site can react to events and allow user interaction. </p>

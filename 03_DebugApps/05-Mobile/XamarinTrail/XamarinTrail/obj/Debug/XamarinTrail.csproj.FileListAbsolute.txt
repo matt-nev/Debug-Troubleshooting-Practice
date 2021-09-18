@@ -1,0 +1,42 @@
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\XamarinTrail.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\XamarinTrail.pdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.csprojResolveAssemblyReference.cache
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.pdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\obj\Debug\FirstPage.xaml.g.cs
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.Abstractions.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.dll
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.pdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.xml
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.Abstractions.pdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.Abstractions.xml
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.dll.mdb
+c:\users\walt\documents\visual studio 2015\Projects\XamarinTrail\XamarinTrail\XamarinTrail\bin\Debug\XamarinTrail.dll.mdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debugging\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.csprojResolveAssemblyReference.cache
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debugging\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\XamarinTrail\obj\Debug\FirstPage.xaml.g.cs
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debugging\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debugging\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\XamarinTrail.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\XamarinTrail.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.Abstractions.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.xml
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.Abstractions.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\DeviceInfo.Plugin.Abstractions.xml
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.csprojResolveAssemblyReference.cache
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\obj\Debug\FirstPage.xaml.g.cs
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.dll
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.pdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.dll.mdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\XamarinTrail.dll.mdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\obj\Debug\XamarinTrail.dll.mdb
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\06-Mobile\XamarinTrail\XamarinTrail\bin\Debug\XamarinTrail.dll.mdb

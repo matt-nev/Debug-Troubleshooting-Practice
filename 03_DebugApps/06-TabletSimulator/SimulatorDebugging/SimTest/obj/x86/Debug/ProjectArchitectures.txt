@@ -1,0 +1,1 @@
+C:\Users\lynda_000\Google Drive\Lynda\Walt - Shared\Docs\VS2015-Debug\Exercise Files\03_DebugApps\07-TabletSimulator\SimulatorDebugging\SimTest\SimTest.csproj;x86
